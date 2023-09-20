@@ -1,5 +1,7 @@
 <h1 align="center">
-   你好 Hello  , I'm Anthony Kwok!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+   你好 Hello  , I'm Anthony Kwok!  
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 ![Data Science Banner](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/ds-banner/ds-banner.jpg)
@@ -31,9 +33,25 @@
 </a>
 </p>
 
-## :keyboard: Programming Languages :keyboard:
+## :zany_face: Introduction :zany_face: 
+> :cancer:  
+> Living :canada:  
+> From :hong_kong:
 
-## :wrench: Tools :wrench:
+## :keyboard: Programming :keyboard:
+
+## :hammer_and_wrench: Tools :hammer_and_wrench:
+
+## :open_file_folder: Project :open_file_folder:
+
+## :open_file_folder: Language :open_file_folder:
+<img src="https://img.shields.io/badge/English-Proficency-blue"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://img.shields.io/badge/Swedish-Learning-yellow"/>
 
 <!--
 **anthonynamnam/anthonynamnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
