@@ -6,7 +6,7 @@
 
 ![Data Science Banner](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/ds-banner/ds-banner.jpg)
 
-## :envelope_with_arrow: Contact Me :envelope_with_arrow:
+## :envelope_with_arrow: Follow Me Now :envelope_with_arrow:
 <p align="left"> 
 <!--  LinkedIn  -->
 <a href="[https://www.linkedin.com/in/anthonykwok073](https://www.linkedin.com/in/anthonykwok073/)">
@@ -39,11 +39,29 @@
 > From :hong_kong:
 
 ## :keyboard: Programming :keyboard:
+- Python
+- R
+- SQL
+- Scala
+- C++
+- Java
 
 ## :hammer_and_wrench: Tools :hammer_and_wrench:
+- DBT
+- Airflow
+- Git
+- Docker
+- Power BI
+- Tableau
+
+## :brain: Skills :brain:
+- Regression Analysis
+- A/B Testing
+- Agile Methodology
 
 ## :open_file_folder: Projects :open_file_folder:
-
+Personalised Algo-Trading with ML/DL Models  
+Data Mining (Course Project)
 
 ## :speech_balloon: Languages :speech_balloon:
 <img src="https://img.shields.io/badge/English-Proficency-blue"/>
