@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
    你好 Hello  , I'm Anthony Kwok!  
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
@@ -42,9 +42,10 @@
 
 ## :hammer_and_wrench: Tools :hammer_and_wrench:
 
-## :open_file_folder: Project :open_file_folder:
+## :open_file_folder: Projects :open_file_folder:
 
-## :open_file_folder: Language :open_file_folder:
+
+## :speech_balloon: Languages :speech_balloon:
 <img src="https://img.shields.io/badge/English-Proficency-blue"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>
@@ -52,6 +53,15 @@
 <img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://img.shields.io/badge/Swedish-Learning-yellow"/>
+
+## :thought_balloon: Hobbies & Interest :thought_balloon:
+
+| *Sport*                      | *Stratrgic Games*              |
+| :---:                        | :---:                           |
+|**Volleyball** :volleyball:   | **Texas Poker** :black_joker:   |
+|**Badminton** :badminton:     | **Mahjong** :mahjong:           |
+|**Bowling** :bowling:         |                                 
+
 
 <!--
 **anthonynamnam/anthonynamnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
