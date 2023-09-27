@@ -83,8 +83,7 @@
 
 
 ## :speech_balloon: Languages :speech_balloon:
-<img src="https://img.shields.io/badge/English-Proficency-blue"/>
-&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/Swedish-Learning-yellow"/>
+<img src="https://img.shields.io/badge/English-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Swedish-Learning-yellow"/>
 
 ## :thought_balloon: Hobbies & Interest :thought_balloon:
 
