@@ -1,6 +1,6 @@
 <h1 align="left">
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-   你好 Hello  , I'm Anthony Kwok!  
+   Hello (Hej) , I'm (jag heter) Anthony Kwok!  
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
   &nbsp
-<!-- <a href="http:/harikanani.github.io/PortfolioV2" target="_blank">
-  <img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" />
-</a>
-  &nbsp -->
 <!--  Medium  -->
 <a href="[https://www.linkedin.com/in/anthonykwok073](https://www.linkedin.com/in/anthonykwok073)">
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/>
@@ -34,9 +30,11 @@
 </p>
 
 ## :zany_face: Introduction :zany_face: 
-> :cancer:  
-> Living :canada:  
-> From :hong_kong:
+:high_brightness: I am passionate Data Analyst / Data Scientist :chart_with_upwards_trend: :chart_with_downwards_trend:	 who has worked in interationnal luxury retail group :office:.  Experieced in ****sales and traffic forecasting model*** :mag_right:.
+
+:high_brightness: I enjoy a lot in helping companies to discover and empower the potential of the data with data science tools and algorithms.
+
+:high_brightness: Self-motivated and eager to learn different technologies and concepts. Recently, I am learning [Scala](https://github.com/anthonynamnam/scala-learning) and [DBT](https://github.com/anthonynamnam/hr-data-with-dbt).
 
 ## :keyboard: Programming :keyboard:
 - Python
@@ -47,21 +45,42 @@
 - Java
 
 ## :hammer_and_wrench: Tools :hammer_and_wrench:
-- DBT
-- Airflow
-- Git
-- Docker
-- Power BI
-- Tableau
+### *Visualization* :eyes:
+  - Power BI <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+  - Tableau
+### *Data Pipeline* :potable_water:
+  - DBT
+### *Continuous Integration / Continuous Delivery (CI/CD)* :recycle:
+  - Git
+  - Docker
 
 ## :brain: Skills :brain:
 - Regression Analysis
+- Correlation Analysis
+- Feature Engineering
 - A/B Testing
 - Agile Methodology
 
-## :open_file_folder: Projects :open_file_folder:
-Personalised Algo-Trading with ML/DL Models  
-Data Mining (Course Project)
+## :open_file_folder: Capstone & Side Projects :open_file_folder:
+### :trophy: *Mobile Price Prediction with Gradient Boosting & Random Forest*
+- To predict the price range of a mobile phone based on its functionality and hardware component.  
+- Dataset from kaggle and gradient boosting achieve 90% of weighted accuracy. 
+
+### :trophy: *Personalised Algo-Trading with Machine Learning / Deep Learning Models* 
+- Apply machine learning to classify user’s risk and stocks’ volatility and apply ensemble learning to predict stock prices and make trading decisions.  
+- Model Performance outperforms “Buy-and-hold” Strategies.
+
+### :trophy: *Data Mining (Course Projects)*
+- Apply multiple data mining techniques into real-life dataset.
+  1. Sentiment Analysis by ***NLP*** on Restaurant Customers Review
+  2. Customer Segmentation by ***Clustering***
+  3. Rating Prediction by ***Network Analysis***
+
+### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
+- To provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data and perform visualisations to support the recommendations.
+
+
+
 
 ## :speech_balloon: Languages :speech_balloon:
 <img src="https://img.shields.io/badge/English-Proficency-blue"/>
@@ -79,6 +98,7 @@ Data Mining (Course Project)
 |**Volleyball** :volleyball:   | **Texas Poker** :black_joker:   |
 |**Badminton** :badminton:     | **Mahjong** :mahjong:           |
 |**Bowling** :bowling:         |                                 
+
 
 
 <!--
