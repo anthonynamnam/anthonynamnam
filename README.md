@@ -6,7 +6,7 @@
 
 ![Data Science Banner](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/ds-banner/ds-banner.jpg)
 
-## :envelope_with_arrow: Follow Me Now :envelope_with_arrow:
+## :envelope_with_arrow: Contact Me
 <p align="left"> 
 <!--  LinkedIn  -->
 <a href="[https://www.linkedin.com/in/anthonykwok073](https://www.linkedin.com/in/anthonykwok073/)">
@@ -29,14 +29,21 @@
 </a>
 </p>
 
-## :zany_face: Introduction :zany_face: 
+## :zany_face: Introduction
 :high_brightness: I am passionate Data Analyst / Data Scientist :chart_with_upwards_trend: :chart_with_downwards_trend:	 who has worked in interationnal luxury retail group :office:.  Experieced in ****sales and traffic forecasting model*** :mag_right:.
 
 :high_brightness: I enjoy a lot in helping companies to discover and empower the potential of the data with data science tools and algorithms.
 
 :high_brightness: Self-motivated and eager to learn different technologies and concepts. Recently, I am learning [Scala](https://github.com/anthonynamnam/scala-learning) and [DBT](https://github.com/anthonynamnam/hr-data-with-dbt).
 
-## :keyboard: Programming :keyboard:
+
+## :memo: Experiences in ML/DL
+- Sales and traffic forecasting
+- Stock Price Prediction with algo-trading
+- Sentiment Analysis with NLP
+- Mobile Price Range Classification
+
+## :keyboard: Programming
 - Python
 - R
 - SQL
@@ -44,9 +51,9 @@
 - C++
 - Java
 
-## :hammer_and_wrench: Tools :hammer_and_wrench:
+## :hammer_and_wrench: Tools
 ### *Visualization* :eyes:
-  - Power BI <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+  - Power BI
   - Tableau
 ### *Data Pipeline* :potable_water:
   - DBT
@@ -54,14 +61,20 @@
   - Git
   - Docker
 
-## :brain: Skills :brain:
+## :brain: Skills
+### *Statistics* :bar_chart:
 - Regression Analysis
 - Correlation Analysis
-- Feature Engineering
-- A/B Testing
-- Agile Methodology
 
-## :open_file_folder: Capstone & Side Projects :open_file_folder:
+### *Product Development* :outbox_tray:
+- Agile Methodology
+- Scrum
+
+### *Data Wrangling* :pencil:
+- Feature Engineering
+- Data Cleaning
+
+## :open_file_folder: Capstone & Side Projects
 ### :trophy: *Mobile Price Prediction with Gradient Boosting & Random Forest*
 - To predict the price range of a mobile phone based on its functionality and hardware component.  
 - Dataset from kaggle and gradient boosting achieve 90% of weighted accuracy. 
@@ -82,10 +95,10 @@
 
 
 
-## :speech_balloon: Languages :speech_balloon:
+## :speech_balloon: Languages
 <img src="https://img.shields.io/badge/English-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Swedish-Learning-yellow"/>
 
-## :thought_balloon: Hobbies & Interest :thought_balloon:
+## :thought_balloon: Hobbies & Interest
 
 | *Sport*                      | *Stratrgic Games*              |
 | :---:                        | :---:                           |
