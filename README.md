@@ -36,12 +36,12 @@
 
 :high_brightness: Self-motivated and eager to learn different technologies and concepts. Recently, I am learning [Scala](https://github.com/anthonynamnam/scala-learning) and [DBT](https://github.com/anthonynamnam/hr-data-with-dbt).
 
-
 ## :memo: Experiences in ML/DL
 - Sales and traffic forecasting
 - Stock Price Prediction with algo-trading
-- Sentiment Analysis with NLP
+- Sentiment Analysis with NLP (`BERT`)
 - Mobile Price Range Classification
+- Recommendation System (`Collaborative Filtering`)
 
 ## :keyboard: Programming
 - Python: `Numpy`,`Pandas`,`Scipy`, `multiprocessing`
@@ -60,18 +60,18 @@
   - Matplotlib
 
 ### *Machine Learning* :low_brightness:
-- Framework: `statsmodels`, `scikit-learn`
+- Frameworks: `statsmodels`, `scikit-learn`
 - Regressions: `Linear`,`Logistic`,`Lasso`,`Ridge`
 - Boosting and Trees: `XGBoost`, `Catboost`,`Adaboost`,`Decision Tree`
 - Clustering: `SVM`, `K-Means`,`LOF`,`DBSCAN`
 - Time Series: `Prophet`, `DeepAR`, `SARIMAX`
 
 ### *Deep Learning* :high_brightness:
-- Framework: `PyTorch` & `Keras`
-- Model: `CNN`, `RNN`, `LSTM`, `Transformer`
+- Frameworks: `PyTorch` & `Keras`
+- Models: `CNN`, `RNN`, `LSTM`, `Transformer`
 
 ### *AutoML* :dash:
-- H2O
+- H2O.ai
 
 ### *Data Pipeline* :potable_water:
   - DBT
@@ -81,6 +81,10 @@
   - Docker
   - Airflow
 
+### *Cloud Computing* :cloud:
+  - Google Cloud Platform
+  - Amazon Web Services
+
 ## :brain: Skills
 ### *Statistics* :bar_chart:
 - Regression Analysis
@@ -88,11 +92,12 @@
 
 ### *Product Development* :outbox_tray:
 - Agile Methodology
-- Scrum
+- Scrum and Sprint
 
 ### *Data Wrangling* :pencil:
 - Feature Engineering
 - Data Cleaning
+- Exploratory Data Analysis
 
 ## :open_file_folder: Side Projects
 #### :trophy: *Mobile Price Prediction with Gradient Boosting & Random Forest*
