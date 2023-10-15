@@ -44,22 +44,42 @@
 - Mobile Price Range Classification
 
 ## :keyboard: Programming
-- Python
-- R
+- Python: `Numpy`,`Pandas`,`Scipy`, `multiprocessing`
+- R: `ggplot2`
 - SQL
 - Scala
-- C++
 - Java
+- C++
 
-## :hammer_and_wrench: Tools
+## :hammer_and_wrench: Tools with Experience
 ### *Visualization* :eyes:
   - Power BI
   - Tableau
+  - Plotly
+  - Seaborn
+  - Matplotlib
+
+### *Machine Learning* :low_brightness:
+- Framework: `statsmodels`, `scikit-learn`
+- Regressions: `Linear`,`Logistic`,`Lasso`,`Ridge`
+- Boosting and Trees: `XGBoost`, `Catboost`,`Adaboost`,`Decision Tree`
+- Clustering: `SVM`, `K-Means`,`LOF`,`DBSCAN`
+- Time Series: `Prophet`, `DeepAR`, `SARIMAX`
+
+### *Deep Learning* :high_brightness:
+- Framework: `PyTorch` & `Keras`
+- Model: `CNN`, `RNN`, `LSTM`, `Transformer`
+
+### *AutoML* :dash:
+- H2O
+
 ### *Data Pipeline* :potable_water:
   - DBT
+
 ### *Continuous Integration / Continuous Delivery (CI/CD)* :recycle:
   - Git
   - Docker
+  - Airflow
 
 ## :brain: Skills
 ### *Statistics* :bar_chart:
@@ -74,29 +94,39 @@
 - Feature Engineering
 - Data Cleaning
 
-## :open_file_folder: Capstone & Side Projects
-### :trophy: *Mobile Price Prediction with Gradient Boosting & Random Forest*
+## :open_file_folder: Side Projects
+#### :trophy: *Mobile Price Prediction with Gradient Boosting & Random Forest*
 - To predict the price range of a mobile phone based on its functionality and hardware component.  
 - Dataset from kaggle and gradient boosting achieve 90% of weighted accuracy. 
 
-### :trophy: *Personalised Algo-Trading with Machine Learning / Deep Learning Models* 
-- Apply machine learning to classify user’s risk and stocks’ volatility and apply ensemble learning to predict stock prices and make trading decisions.  
+#### :trophy: *Personalised Algo-Trading with Machine Learning / Deep Learning Models* 
+- Applied `SVC`, `XGBoost`, `Catboost`, `Prophet`, `CNN-LSTM` to predict stock prices.
+- Make trading decision based on our model prediction and users' risk classification.
 - Model Performance outperforms “Buy-and-hold” Strategies.
 
-### :trophy: *Data Mining (Course Projects)*
-- Apply multiple data mining techniques into real-life dataset.
-  1. Sentiment Analysis by ***NLP*** on Restaurant Customers Review
-  2. Customer Segmentation by ***Clustering***
-  3. Rating Prediction by ***Network Analysis***
+#### :trophy: *Sentiment Analysis on Restaurant Review*
+- Applied `MLP`, `Flair`, `CNN` and `BERT` with `Pytorch` framework to predict the score of restaurant review.
 
-### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
-- To provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data and perform visualisations to support the recommendations.
+#### :trophy: *Recommendation System with Neural Collaborative Filtering*
+- Applied `Neural Collaborative Filtering` (NCF) model in recommendation system to predict user's rating (1-6).
+- Used `Wide & Deel Learning` model for prediction.
+- `RMSE` dropped to 0.99.
+
+#### :trophy: *Social Network Analysis*
+- Perform network analysis to spot out the key opinion leader in the network.
+- Applied `Random Walk Generator` to extract information from local and global network.
+- Applied `DeepWalk` and `Node2Vec` for embedding stage
+- `AUC-ROC` score reached 0.9323.
+
+#### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
+- To provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data.
+- Perform visualisations to support the business insights and recommendations.
 
 
-
+==
 
 ## :speech_balloon: Languages
-<img src="https://img.shields.io/badge/English-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Swedish-Learning-yellow"/>
+<img src="https://img.shields.io/badge/English-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Swedish-Learning In Progress-yellow"/>
 
 ## :thought_balloon: Hobbies & Interest
 
@@ -107,18 +137,3 @@
 |**Bowling** :bowling:         |                                 
 
 
-
-<!--
-**anthonynamnam/anthonynamnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
