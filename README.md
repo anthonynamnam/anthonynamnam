@@ -30,18 +30,25 @@
 </p>
 
 ## :zany_face: Introduction
-:high_brightness: I am passionate Data Analyst / Data Scientist :chart_with_upwards_trend: :chart_with_downwards_trend:	 who has worked in interationnal luxury retail group :office:.  Experieced in ****sales and traffic forecasting model*** :mag_right:.
+:high_brightness: I am passionate Data Analyst / Data Scientist :chart_with_upwards_trend: :chart_with_downwards_trend:	 who has worked in interationnal luxury retail group and equine hospital :office:.  
 
 :high_brightness: I enjoy a lot in helping companies to discover and empower the potential of the data with data science tools and algorithms.
 
 :high_brightness: Self-motivated and eager to learn different technologies and concepts. Recently, I am learning [Scala](https://github.com/anthonynamnam/scala-learning) and [DBT](https://github.com/anthonynamnam/hr-data-with-dbt).
 
-## :memo: Experiences in ML/DL
+## :memo: Experience in ML/DL
 - Sales and traffic forecasting
-- Stock Price Prediction with algo-trading
-- Sentiment Analysis with NLP (`BERT`)
-- Mobile Price Range Classification
-- Recommendation System (`Collaborative Filtering`)
+- Data anomaly detection
+- Stock price prediction with algo-trading
+- Mobile price range slassification
+- Recommendation system
+- Social network analysis
+
+## :memo: Experience in BI Development & Automation
+- Sales performance dashboard
+- Network traffic monitoring dashboard
+- Drugs and vaccination usage dashboard
+- Injuries and rehabilitation dashboard
 
 ## :keyboard: Programming
 - Python: `Numpy`,`Pandas`,`Scipy`, `multiprocessing`
@@ -52,36 +59,36 @@
 - C++
 
 ## :hammer_and_wrench: Tools with Experience
-### *Visualization* :eyes:
+### *Visualization Tools* :eyes:
   - Power BI
   - Tableau
   - Plotly
   - Seaborn
   - Matplotlib
 
-### *Machine Learning* :low_brightness:
+### *Machine Learning Tools* :low_brightness:
 - Frameworks: `statsmodels`, `scikit-learn`
 - Regressions: `Linear`,`Logistic`,`Lasso`,`Ridge`
 - Boosting and Trees: `XGBoost`, `Catboost`,`Adaboost`,`Decision Tree`
 - Clustering: `SVM`, `K-Means`,`LOF`,`DBSCAN`
 - Time Series: `Prophet`, `DeepAR`, `SARIMAX`
 
-### *Deep Learning* :high_brightness:
+### *Deep Learning Tools* :high_brightness:
 - Frameworks: `PyTorch` & `Keras`
 - Models: `CNN`, `RNN`, `LSTM`, `Transformer`
 
-### *AutoML* :dash:
+### *AutoML Tools* :dash:
 - H2O.ai
 
-### *Data Pipeline* :potable_water:
+### *Data Pipeline Tools* :potable_water:
   - DBT
 
-### *Continuous Integration / Continuous Delivery (CI/CD)* :recycle:
+### *Continuous Integration / Continuous Delivery (CI/CD) Tools* :recycle:
   - Git
   - Docker
   - Airflow
 
-### *Cloud Computing* :cloud:
+### *Cloud Computing Tools* :cloud:
   - Google Cloud Platform
   - Amazon Web Services
 
@@ -91,44 +98,53 @@
 - Correlation Analysis
 
 ### *Product Development* :outbox_tray:
-- Agile Methodology
-- Scrum and Sprint
+- Agile Methodology & Kanban
+- Scrum & Sprint
+- JIRA
+- Confluence
 
 ### *Data Wrangling* :pencil:
-- Feature Engineering
 - Data Cleaning
 - Exploratory Data Analysis
+- Feature Engineering
 
 ## :open_file_folder: Side Projects
-#### :trophy: *Mobile Price Prediction with Gradient Boosting & Random Forest*
-- To predict the price range of a mobile phone based on its functionality and hardware component.  
-- Dataset from kaggle and gradient boosting achieve 90% of weighted accuracy. 
+### :trophy: *Mobile Price Prediction*
+- Applied `gradient boosting` and `random forest` to predict mobile phone prices raneg.
+- Predict the price range of a mobile phone based on its functionality and hardware component.  
+- Dataset from kaggle and gradient boosting achieve 90% of weighted accuracy.
 
-#### :trophy: *Personalised Algo-Trading with Machine Learning / Deep Learning Models* 
+### :trophy: *Personalised Algo-Trading on US stock market* 
 - Applied `SVC`, `XGBoost`, `Catboost`, `Prophet`, `CNN-LSTM` to predict stock prices.
 - Make trading decision based on our model prediction and users' risk classification.
 - Model Performance outperforms “Buy-and-hold” Strategies.
 
-#### :trophy: *Sentiment Analysis on Restaurant Review*
+### :trophy: *Sentiment Analysis on Restaurant Review*
 - Applied `MLP`, `Flair`, `CNN` and `BERT` with `Pytorch` framework to predict the score of restaurant review.
 
-#### :trophy: *Recommendation System with Neural Collaborative Filtering*
+### :trophy: *Recommendation System with Neural Collaborative Filtering*
 - Applied `Neural Collaborative Filtering` (NCF) model in recommendation system to predict user's rating (1-6).
-- Used `Wide & Deel Learning` model for prediction.
+- Used `Wide & Deep Learning` model for prediction.
 - `RMSE` dropped to 0.99.
 
-#### :trophy: *Social Network Analysis*
+### :trophy: *Social Network Analysis*
 - Perform network analysis to spot out the key opinion leader in the network.
 - Applied `Random Walk Generator` to extract information from local and global network.
 - Applied `DeepWalk` and `Node2Vec` for embedding stage
 - `AUC-ROC` score reached 0.9323.
 
-#### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
-- To provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data.
+### :trophy: *Predictive Analysis of West Nile Virus in Chicago*
+- Perform predictive analysis and linear & logistic regression to predict the the presence of West Nile Virus.
+- Perform exploratory data analysis and data cleaning before data modelling
+
+### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
+- Provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data.
 - Perform visualisations to support the business insights and recommendations.
 
+### :trophy: *Data Analysis & Visualization on Air Traffic Data*
+- Perfoam data analysis with Tableu on Air Traffic Data
+- Analyse the performance of major US Airlines such as Delta Airline, American Airline and Southwest Airline
 
-==
 
 ## :speech_balloon: Languages
 <img src="https://img.shields.io/badge/English-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Cantonese-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Mandarin-Proficency-blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Swedish-Learning In Progress-yellow"/>
