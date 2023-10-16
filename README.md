@@ -89,8 +89,8 @@
   - Airflow
 
 ### *Cloud Computing Tools* :cloud:
-  - Google Cloud Platform
-  - Amazon Web Services
+  - Platforms: `Google Cloud Platform`, `Amazon Web Services`
+  - Frameworks: `PySpark`, `Dask`
 
 ## :brain: Skills
 ### *Statistics* :bar_chart:
