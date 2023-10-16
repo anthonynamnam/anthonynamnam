@@ -109,10 +109,10 @@
 - Feature Engineering
 
 ## :open_file_folder: Side Projects
-### :trophy: *Mobile Price Prediction*
-- Applied `gradient boosting` and `random forest` to predict mobile phone prices raneg.
-- Predict the price range of a mobile phone based on its functionality and hardware component.  
-- Dataset from kaggle and gradient boosting achieve 90% of weighted accuracy.
+### :trophy: *Mobile Price Range Prediction*
+- Applied `gradient boosting` and `random forest` to predict mobile phone prices range.
+- Predict the price range of mobile phones based on its functionality and hardware component.  
+- Dataset from kaggle and achieve 90% of weighted accuracy.
 
 ### :trophy: *Personalised Algo-Trading on US stock market* 
 - Applied `SVC`, `XGBoost`, `Catboost`, `Prophet`, `CNN-LSTM` to predict stock prices.
