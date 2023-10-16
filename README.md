@@ -60,11 +60,8 @@
 
 ## :hammer_and_wrench: Tools with Experience
 ### *Visualization Tools* :eyes:
-  - Power BI
-  - Tableau
-  - Plotly
-  - Seaborn
-  - Matplotlib
+  - Software: `Power BI`, `Tableau`
+  - Library: `Plotly`, `Seaborn`, `Matplotlib`
 
 ### *Machine Learning Tools* :low_brightness:
 - Frameworks: `statsmodels`, `scikit-learn`
@@ -90,7 +87,9 @@
 
 ### *Cloud Computing Tools* :cloud:
   - Platforms: `Google Cloud Platform`, `Amazon Web Services`
-  - Frameworks: `PySpark`, `Dask`
+
+### *Big Data Tools* :up:
+  - Frameworks: `PySpark`, `Hadoop`, `Dask`
 
 ## :brain: Skills
 ### *Statistics* :bar_chart:
