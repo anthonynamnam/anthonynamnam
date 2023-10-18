@@ -47,12 +47,12 @@
 ## :memo: Experience in BI Development & Automation
 - Sales performance dashboard
 - Network traffic monitoring dashboard
-- Drugs and vaccination usage dashboard
+- Drugs and vaccination usages dashboard
 - Injuries and rehabilitation dashboard
 
 ## :keyboard: Programming
 - Python: `Numpy`,`Pandas`,`Scipy`, `multiprocessing`
-- R: `ggplot2`
+- R: `ggplot2`, `tidyr`
 - SQL
 - Scala
 - Java
@@ -89,7 +89,8 @@
   - Platforms: `Google Cloud Platform`, `Amazon Web Services`
 
 ### *Big Data Tools* :up:
-  - Frameworks: `PySpark`, `Hadoop`, `Dask`
+  - Frameworks: `Spark`, `Hadoop`
+  - Python API: `PySpark`, `Dask`
 
 ## :brain: Skills
 ### *Statistics* :bar_chart:
@@ -107,7 +108,7 @@
 - Exploratory Data Analysis
 - Feature Engineering
 
-## :open_file_folder: Side Projects
+## :open_file_folder: Data Science Projects
 ### :trophy: *Mobile Price Range Prediction*
 - Applied `gradient boosting` and `random forest` to predict mobile phone prices range.
 - Predict the price range of mobile phones based on its functionality and hardware component.  
@@ -135,6 +136,8 @@
 ### :trophy: *Predictive Analysis of West Nile Virus in Chicago*
 - Perform predictive analysis and linear & logistic regression to predict the the presence of West Nile Virus.
 - Perform exploratory data analysis and data cleaning before data modelling
+
+## :open_file_folder: Data Analysis Projects
 
 ### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
 - Provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data.
