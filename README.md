@@ -121,6 +121,7 @@
 
 ### :trophy: *Sentiment Analysis on Restaurant Review*
 - Applied `MLP`, `Flair`, `CNN` and `BERT` with `Pytorch` framework to predict the score of restaurant review.
+- Utilized various techniques such as `tokenization`, `stopword removal`, `stemming` and `word embedding` with `Word2Vec` & `GloVe`
 
 ### :trophy: *Recommendation System with Neural Collaborative Filtering*
 - Applied `Neural Collaborative Filtering` (NCF) model in recommendation system to predict user's rating (1-6).
