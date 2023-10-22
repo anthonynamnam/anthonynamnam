@@ -111,43 +111,43 @@
 ## :open_file_folder: Data Science Projects
 
 ### :trophy: *Mobile Price Range Prediction* (Ongoing)
-- Applied `gradient boosting` and `random forest` to predict mobile phone prices range.
-- Predict the price range of mobile phones based on its functionality and hardware component.  
-- Dataset from kaggle and achieve 90% of weighted accuracy in baseline model.
+- Applied `gradient boosting` and `random forest` to predict mobile phone price range.
+- Predict the price range of mobile phones based on their functionality and hardware components.  
+- Dataset from Kaggle and achieve 90% weighted accuracy in the baseline model.
 
 ### :trophy: *Personalised Algo-Trading on US stock market* 
 - Applied `SVC`, `XGBoost`, `Catboost`, `Prophet`, `CNN-LSTM` to predict stock prices.
-- Make trading decision based on our model prediction and users' risk classification.
+- Make trading decisions based on our model prediction and users' risk classification.
 - Model Performance outperforms “Buy-and-hold” Strategies.
 
 ### :trophy: *Sentiment Analysis on Restaurant Review*
-- Applied `MLP`, `Flair`, `CNN` and `BERT` with `Pytorch` framework to predict the score of restaurant review.
+- Applied `MLP`, `Flair`, `CNN` and `BERT` with the `Pytorch` framework to predict the score of restaurant reviews.
 - Utilized various techniques such as `tokenization`, `stopword removal`, `stemming` and `word embedding` with `Word2Vec` & `GloVe`
 
 ### :trophy: *Recommendation System with Neural Collaborative Filtering*
-- Applied `Neural Collaborative Filtering` (NCF) model in recommendation system to predict user's rating (1-6).
+- Applied the `Neural Collaborative Filtering` (NCF) model in the recommendation system to predict the user's rating (1-6).
 - Used `Wide & Deep Learning` model for prediction.
 - `RMSE` dropped to 0.99.
 
 ### :trophy: *Social Network Analysis*
-- Perform network analysis to spot out the key opinion leader in the network.
-- Applied `Random Walk Generator` to extract information from local and global network.
+- Perform network analysis to spot the key opinion leader in the network.
+- Applied `Random Walk Generator` to extract information from local and global networks.
 - Applied `DeepWalk` and `Node2Vec` for embedding stage
 - `AUC-ROC` score reached 0.9323.
 
 ### :trophy: *Predictive Analysis of West Nile Virus in Chicago*
-- Perform predictive analysis and linear & logistic regression to predict the the presence of West Nile Virus.
+- Perform predictive analysis and linear & logistic regression to predict the presence of West Nile Virus.
 - Perform exploratory data analysis and data cleaning before data modelling
 
 ## :open_file_folder: Data Analysis Projects
 
-### :trophy: *Data Analysis & Visualization on KickStarter Campaign Data*
-- Provide data-driven recommendations based on the past 10 years of Kickstarter Campaigns data.
-- Perform visualisations to support the business insights and recommendations.
+### :trophy: *Data Analysis & Visualization on Kickstarter Campaign Data*
+- Provide data-driven recommendations based on the past 10 years of Kickstarter campaign data.
+- Perform visualizations to support the business insights and recommendations.
 
 ### :trophy: *Data Analysis & Visualization on Air Traffic Data*
-- Perfoam data analysis with Tableu on Air Traffic Data
-- Analyse the performance of major US Airlines such as Delta Airline, American Airline and Southwest Airline
+- Perform data analysis with Tableau on Air Traffic Data
+- Analyse the performance of major US Airlines such as Delta Airlines, American Airlines and Southwest Airlines
 
 
 ## :speech_balloon: Languages
