@@ -111,9 +111,15 @@
 ## :open_file_folder: Data Science Projects
 
 ### :trophy: *Mobile Price Range Prediction* (Ongoing)
+<<<<<<< Updated upstream
 - Applied `gradient boosting` and `random forest` to predict mobile phone price range.
 - Predict the price range of mobile phones based on their functionality and hardware components.  
 - Dataset from Kaggle and achieve 90% weighted accuracy in the baseline model.
+=======
+- Applied `Logistic Regression`, `gradient boosting`, `random forest`, `KNN`, `Naive Bayes` to predict mobile phone prices range.
+- Predict the price range of mobile phones based on its functionality and hardware component.  
+- Dataset from kaggle and achieve 93.8% of weighted F1 score in baseline model - `Logistic Regression`.
+>>>>>>> Stashed changes
 
 ### :trophy: *Personalised Algo-Trading on US stock market* 
 - Applied `SVC`, `XGBoost`, `Catboost`, `Prophet`, `CNN-LSTM` to predict stock prices.
