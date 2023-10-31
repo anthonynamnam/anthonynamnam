@@ -40,14 +40,14 @@
 - Sales and traffic forecasting
 - Data anomaly detection
 - Stock price prediction with algo-trading
-- Mobile price range slassification
+- Mobile price range classification
 - Recommendation system
 - Social network analysis
 
 ## :memo: Experience in BI Development & Automation
 - Sales performance dashboard
 - Network traffic monitoring dashboard
-- Drugs and vaccination usages dashboard
+- Drugs and vaccination usage dashboard
 - Injuries and rehabilitation dashboard
 
 ## :keyboard: Programming
@@ -111,18 +111,13 @@
 ## :open_file_folder: Data Science Projects
 
 ### :trophy: *Mobile Price Range Prediction* (Ongoing)
-<<<<<<< Updated upstream
-- Applied `gradient boosting` and `random forest` to predict mobile phone price range.
+- Applied `Logistic Regression`, `gradient boosting`, `random forest`, `KNN` and `Naive Bayes` to predict mobile phone price ranges.
 - Predict the price range of mobile phones based on their functionality and hardware components.  
-- Dataset from Kaggle and achieve 90% weighted accuracy in the baseline model.
-=======
-- Applied `Logistic Regression`, `gradient boosting`, `random forest`, `KNN`, `Naive Bayes` to predict mobile phone prices range.
-- Predict the price range of mobile phones based on its functionality and hardware component.  
-- Dataset from kaggle and achieve 93.8% of weighted F1 score in baseline model - `Logistic Regression`.
->>>>>>> Stashed changes
+- Dataset from Kaggle and achieve 93.8% of weighted F1 score in baseline model - `Logistic Regression`.
+
 
 ### :trophy: *Personalised Algo-Trading on US stock market* 
-- Applied `SVC`, `XGBoost`, `Catboost`, `Prophet`, `CNN-LSTM` to predict stock prices.
+- Applied `SVC`, `XGBoost`, `Catboost`, `Prophet` and `CNN-LSTM` to predict stock prices.
 - Make trading decisions based on our model prediction and users' risk classification.
 - Model Performance outperforms “Buy-and-hold” Strategies.
 
@@ -139,7 +134,7 @@
 - Perform network analysis to spot the key opinion leader in the network.
 - Applied `Random Walk Generator` to extract information from local and global networks.
 - Applied `DeepWalk` and `Node2Vec` for embedding stage
-- `AUC-ROC` score reached 0.9323.
+- The `AUC-ROC` score reached 0.9323.
 
 ### :trophy: *Predictive Analysis of West Nile Virus in Chicago*
 - Perform predictive analysis and linear & logistic regression to predict the presence of West Nile Virus.
