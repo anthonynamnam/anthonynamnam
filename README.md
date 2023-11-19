@@ -110,45 +110,60 @@
 
 ## :open_file_folder: Data Science Projects
 
-### :trophy: *Mobile Price Range Prediction* (Ongoing)
+### :trophy: *Used Car Price Range Prediction* (Ongoing)
+##### 10/2023 - 12/2023
+- Utilized ensemble learning and deep learning to predict the price range of a used car in North American market.
+- Aimed provide a data-driven price prediction for buyers and sellers to improve market efficiency.
+
+### :trophy: *Mobile Price Range Prediction*
+##### 08/2023 - 10/2023
 - Applied `Logistic Regression`, `gradient boosting`, `random forest`, `KNN` and `Naive Bayes` to predict mobile phone price ranges.
 - Predict the price range of mobile phones based on their functionality and hardware components.  
 - Dataset from Kaggle and achieve 93.8% of weighted F1 score in baseline model - `Logistic Regression`.
 
+### :trophy: *Predictive Analysis of West Nile Virus in Chicago*
+##### 09/2023 - 10/2023
+- Perform predictive analysis and linear & logistic regression to predict the presence of West Nile Virus.
+- Perform exploratory data analysis and data cleaning before data modelling
+
 
 ### :trophy: *Personalised Algo-Trading on US stock market* 
+##### 04/2021 - 06/2022
 - Applied `SVC`, `XGBoost`, `Catboost`, `Prophet` and `CNN-LSTM` to predict stock prices.
 - Make trading decisions based on our model prediction and users' risk classification.
 - Model Performance outperforms “Buy-and-hold” Strategies.
 
-### :trophy: *Sentiment Analysis on Restaurant Review*
-- Applied `MLP`, `Flair`, `CNN` and `BERT` with the `Pytorch` framework to predict the score of restaurant reviews.
-- Utilized various techniques such as `tokenization`, `stopword removal`, `stemming` and `word embedding` with `Word2Vec` & `GloVe`
-
-### :trophy: *Recommendation System with Neural Collaborative Filtering*
-- Applied the `Neural Collaborative Filtering` (NCF) model in the recommendation system to predict the user's rating (1-6).
-- Used `Wide & Deep Learning` model for prediction.
-- `RMSE` dropped to 0.99.
-
 ### :trophy: *Social Network Analysis*
+##### 03/2021 - 06/2021  
 - Perform network analysis to spot the key opinion leader in the network.
 - Applied `Random Walk Generator` to extract information from local and global networks.
 - Applied `DeepWalk` and `Node2Vec` for embedding stage
 - The `AUC-ROC` score reached 0.9323.
 
-### :trophy: *Predictive Analysis of West Nile Virus in Chicago*
-- Perform predictive analysis and linear & logistic regression to predict the presence of West Nile Virus.
-- Perform exploratory data analysis and data cleaning before data modelling
+### :trophy: *Recommendation System with Neural Collaborative Filtering*
+##### 02/2021 - 05/2021  
+- Applied the `Neural Collaborative Filtering` (NCF) model in the recommendation system to predict the user's rating (1-6).
+- Used `Wide & Deep Learning` model for prediction.
+- `RMSE` dropped to 0.99.
+
+### :trophy: *Sentiment Analysis on Restaurant Review*
+##### 01/2021 - 04/2021  
+- Applied `MLP`, `Flair`, `CNN` and `BERT` with the `Pytorch` framework to predict the score of restaurant reviews.
+- Utilized various techniques such as `tokenization`, `stopword removal`, `stemming` and `word embedding` with `Word2Vec` & `GloVe`
+
+
 
 ## :open_file_folder: Data Analysis Projects
 
-### :trophy: *Data Analysis & Visualization on Kickstarter Campaign Data*
-- Provide data-driven recommendations based on the past 10 years of Kickstarter campaign data.
-- Perform visualizations to support the business insights and recommendations.
-
 ### :trophy: *Data Analysis & Visualization on Air Traffic Data*
+##### 09/2023
 - Perform data analysis with Tableau on Air Traffic Data
 - Analyse the performance of major US Airlines such as Delta Airlines, American Airlines and Southwest Airlines
+
+### :trophy: *Data Analysis & Visualization on Kickstarter Campaign Data*
+##### 08/2023
+- Provide data-driven recommendations based on the past 10 years of Kickstarter campaign data.
+- Perform visualizations to support the business insights and recommendations.
 
 
 ## :speech_balloon: Languages
