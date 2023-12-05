@@ -110,12 +110,13 @@
 
 ## :open_file_folder: Data Science Projects
 
-### :trophy: *Used Car Price Range Prediction* (Ongoing)
+### :trophy: *[Used Car Price Range Prediction](https://github.com/anthonynamnam/brainstation_capstone)*
 ##### 10/2023 - 12/2023
 - Utilized ensemble learning and deep learning to predict the price range of a used car in North American market.
 - Aimed provide a data-driven price prediction for buyers and sellers to improve market efficiency.
+![Data Science Banner](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/bs-capstone/ui_demo.png)
 
-### :trophy: *Mobile Price Range Prediction*
+### :trophy: *[Mobile Price Range Prediction](https://github.com/anthonynamnam/mobile-price-prediction)*
 ##### 08/2023 - 10/2023
 - Applied `Logistic Regression`, `gradient boosting`, `random forest`, `KNN` and `Naive Bayes` to predict mobile phone price ranges.
 - Predict the price range of mobile phones based on their functionality and hardware components.  
