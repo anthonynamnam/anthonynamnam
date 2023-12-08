@@ -9,17 +9,17 @@
 ## :envelope_with_arrow: Contact Me
 <p align="left"> 
 <!--  LinkedIn  -->
-<a href="[https://www.linkedin.com/in/anthonykwok073](https://www.linkedin.com/in/anthonykwok073/)">
+<a href="https://www.linkedin.com/in/anthonykwok073">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
   &nbsp
 <!--  Medium  -->
-<a href="[https://www.linkedin.com/in/anthonykwok073](https://www.linkedin.com/in/anthonykwok073)">
+<a href="https://kwokanthony.medium.com">
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
   &nbsp
 <!--  Kaggle  -->
-<a href="[https://www.kaggle.com/anthonynam](https://www.kaggle.com/anthonynam)">
+<a href="https://www.kaggle.com/anthonynam">
   <img src="https://img.shields.io/badge/-Kaggle-34B7EB?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
   &nbsp
