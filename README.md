@@ -9,22 +9,22 @@
 ## :envelope_with_arrow: Contact Me
 <p align="left"> 
 <!--  LinkedIn  -->
-<a href="https://www.linkedin.com/in/anthonykwok073">
+<a href="https://www.linkedin.com/in/anthonykwok073" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
   &nbsp
 <!--  Medium  -->
-<a href="https://kwokanthony.medium.com">
+<a href="https://kwokanthony.medium.com" target="_blank">
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
   &nbsp
 <!--  Kaggle  -->
-<a href="https://www.kaggle.com/anthonynam">
+<a href="https://www.kaggle.com/anthonynam" target="_blank">
   <img src="https://img.shields.io/badge/-Kaggle-34B7EB?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
   &nbsp
 <!--  Gmail  -->
-<a href="mailto:kwokanthony073@gmail.com">
+<a href="mailto:kwokanthony073@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kwokanthony073@gmail.com" />
 </a>
 </p>
