@@ -114,7 +114,7 @@
 ##### 10/2023 - 12/2023
 - Utilized ensemble learning and deep learning to predict the price range of a used car in North American market.
 - Aimed provide a data-driven price prediction for buyers and sellers to improve market efficiency.
-![Data Science Banner](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/bs-capstone/ui_demo.png)
+![Project-Demo](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/bs-capstone/ui-demo.png)
 
 ### :trophy: *[Mobile Price Range Prediction](https://github.com/anthonynamnam/mobile-price-prediction)*
 ##### 08/2023 - 10/2023
