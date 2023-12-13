@@ -60,19 +60,20 @@
 
 ## :hammer_and_wrench: Tools with Experience
 ### *Visualization Tools* :eyes:
-  - Software: `Power BI`, `Tableau`
+  - Software: `Power BI`, `Tableau`, `Snowflake`
   - Library: `Plotly`, `Seaborn`, `Matplotlib`
 
 ### *Machine Learning Tools* :low_brightness:
 - Frameworks: `statsmodels`, `scikit-learn`
-- Regressions: `Linear`,`Logistic`,`Lasso`,`Ridge`
-- Boosting and Trees: `XGBoost`, `Catboost`,`Adaboost`,`Decision Tree`
-- Clustering: `SVM`, `K-Means`,`LOF`,`DBSCAN`
+- Regressions: `Linear`, `Logistic`, `Lasso`, `Ridge`
+- Boosting and Trees: `XGBoost`, `Catboost`, `Adaboost`, `Decision Tree`, `Random Forest`
+- Clustering: `SVM`, `K-Means`, `LOF`, `DBSCAN`
 - Time Series: `Prophet`, `DeepAR`, `SARIMAX`
 
 ### *Deep Learning Tools* :high_brightness:
 - Frameworks: `PyTorch` & `Keras`
 - Models: `CNN`, `RNN`, `LSTM`, `Transformer`
+- Large Language Model: `Hugging Face`
 
 ### *AutoML Tools* :dash:
 - H2O.ai
@@ -96,24 +97,40 @@
 ### *Statistics* :bar_chart:
 - Regression Analysis
 - Correlation Analysis
+- Statistical Analysis
 
 ### *Product Development* :outbox_tray:
 - Agile Methodology & Kanban
 - Scrum & Sprint
 - JIRA
 - Confluence
+- Streamlit
+- Flask
 
 ### *Data Wrangling* :pencil:
 - Data Cleaning
 - Exploratory Data Analysis
 - Feature Engineering
+- Feature Extraction
+
+### *LLM Skills* :wrench:
+- Prompt Engineering
+   - Zero-shot Inference
+   - One-shot Inference
+   - Few-shot Inference
+- Fine-Tuning;
+   - Instruction Fine-Tuning
+   - LoRA
+   - Soft Prompt
+ 
+     
 
 ## :open_file_folder: Data Science Projects
 
 ### :trophy: *[Used Car Price Range Prediction](https://github.com/anthonynamnam/brainstation_capstone)*
 ##### 10/2023 - 12/2023
-- Utilized ensemble learning and deep learning to predict the price range of a used car in North American market.
-- Aimed provide a data-driven price prediction for buyers and sellers to improve market efficiency.
+- Utilized ensemble learning and deep learning to predict the price range of a used car in the North American market.
+- Aimed to provide a data-driven price prediction for buyers and sellers to improve market efficiency. [Try it out now!](https://github.com/anthonynamnam/brainstation_capstone/blob/main/README.md#deploy)
 ![Project-Demo](https://raw.githubusercontent.com/anthonynamnam/anthonynamnam/main/icons/bs-capstone/ui-demo.png)
 
 ### :trophy: *[Mobile Price Range Prediction](https://github.com/anthonynamnam/mobile-price-prediction)*
@@ -126,7 +143,6 @@
 ##### 09/2023 - 10/2023
 - Perform predictive analysis and linear & logistic regression to predict the presence of West Nile Virus.
 - Perform exploratory data analysis and data cleaning before data modelling
-
 
 ### :trophy: *Personalised Algo-Trading on US stock market* 
 ##### 04/2021 - 06/2022
